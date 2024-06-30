@@ -1,3 +1,3 @@
 Sample of Work
 # Output
-![fb test case](https://github.com/tofayal-ahmed/Course_Registration_From/assets/169479504/84202be1-cb07-4ee3-aca4-1cafeb9c11d1)
+![Capture - Copy](https://github.com/tofayal-ahmed/Course_Registration_From/assets/169479504/4adcdbd6-4a56-4dc6-8853-576ecfcda2d1)
